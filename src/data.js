@@ -44,7 +44,7 @@ export const skills = [
   "CSS",
   "HTML",
   "C#",
-  "Puthon",
+  "Python",
   "Android",
   "SQL/NoSQL",
   "WordPress",
