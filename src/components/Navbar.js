@@ -19,11 +19,10 @@ export default function Navbar() {
           <a href="#skills" className="mr-5 hover:text-gray-400">
             Skills
           </a>
-          <a
-          href="#contact"
-          className="inline-flex items-center bg-gray-400 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
+          <a href="#contact" className="mr-5 hover:text-gray-400">
           Contact
-        </a>
+          </a>
+          
           {/* <a href="#testimonials" className="mr-5 hover:text-gray-400">
             Testimonials
           </a> */}
