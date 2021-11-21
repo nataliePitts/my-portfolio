@@ -4,16 +4,16 @@ export const projects = [
     subtitle: "Git-Hub",
     description:
       "All my projects appear in my Git-Hub profile.",
-    image: "./gitnn.png",
+    image: "./hubb.png",
     link: "https://github.com/nataliePitts",
   },
   {
-    title: "LinkedIn",
-    subtitle: "LinkedIn",
+    title: "Spot Your Recipes",
+    subtitle: "Final Project at Bar Ilan University",
     description:
-      "To view my LinkedIn profile",
-    image: "./linkn.png",
-    link: "https://www.linkedin.com/in/natalie-pitts-a679271a0/",
+      "Spot Your Recipes - discover the top recipes in Allrecipes.com, based on Collaborative Filtering Algorithm. Build with Python, Node, Vue and MongoDB",
+    image: "./syr.png",
+    link: "https://www.youtube.com/watch?v=NVEPbseelWM",
   },
 ];
 
