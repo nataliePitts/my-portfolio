@@ -9,7 +9,7 @@ import Footer from "./components/Footer";
 
 export default function App() {
   return (
-    <main className="text-pink-700 bg-orange-100 body-font">
+    <main className="text-purple-darkest bg-purple-lightest body-font">
       <Navbar />
       <About />
       <Projects />
