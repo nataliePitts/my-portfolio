@@ -10,7 +10,7 @@ export default function About() {
             <br className="hidden lg:inline-block" /> <br/> Designer and Front-end Developer
           </h1>
           <p className="mb-8 leading-relaxed">
-            I design and code beautifully simple things, and I love what I do
+            Design and code beautifully simple things
             <br/>
             B. A in Data Science and Internet Technology (Bar-Ilan University)
             <br/>
@@ -21,7 +21,7 @@ export default function About() {
             <a
               href="#contact"
               className="inline-flex text-purple-lightest bg-purple-darkest border-0 py-2 px-6 focus:outline-none hover:bg-purple-light rounded text-lg">
-              Contact
+              Let's Connect
             </a>
             
             <a
