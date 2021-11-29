@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Git-Hub",
     description:
       "All my projects appear in my Git-Hub profile.",
-    image: "./hubb.png",
+    image: "./github.png",
     link: "https://github.com/nataliePitts",
   },
   {
@@ -12,8 +12,16 @@ export const projects = [
     subtitle: "Final Project at Bar Ilan University",
     description:
       "Spot Your Recipes - discover the top recipes in Allrecipes.com, based on Collaborative Filtering Algorithm. Build with Python, Node, Vue and MongoDB",
-    image: "./syr.png",
+    image: "./syrr.png",
     link: "https://www.youtube.com/watch?v=NVEPbseelWM",
+  },
+  {
+    title: "Forever Living",
+    subtitle: "Corporate website",
+    description:
+      "A site that presents the company's products, information about the company, links to social media, including a link to WhatsApp with an opening message and a contact form.",
+    image: "./forever.png",
+    link: "https://flamboyant-curie-1ae58d.netlify.app/",
   },
 ];
 
