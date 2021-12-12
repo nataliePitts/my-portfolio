@@ -4,7 +4,7 @@ export const projects = [
     title: "eCommerce Website",
     subtitle: "Made with Wordpress",
     description:
-      "eCommerce Website for Product/Service ",
+      "eCommerce Website for Product/Service. A site that presents the company's products, infomation about the company and all the setup. ",
     image: "./macrameweb.png",
     link: "https://anndesign.club/",
   },
