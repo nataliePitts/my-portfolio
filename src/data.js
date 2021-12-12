@@ -1,11 +1,12 @@
 export const projects = [
+ 
   {
-    title: "Git-Hub",
-    subtitle: "Git-Hub",
+    title: "eCommerce Website",
+    subtitle: "Made with Wordpress",
     description:
-      "All my projects appear in my Git-Hub profile.",
-    image: "./github.png",
-    link: "https://github.com/nataliePitts",
+      "eCommerce Website for Product/Service ",
+    image: "./macrameweb.png",
+    link: "https://anndesign.club/",
   },
   {
     title: "Spot Your Recipes",
