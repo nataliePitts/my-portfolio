@@ -4,7 +4,7 @@ export const projects = [
     title: "eCommerce Website",
     subtitle: "Made with Wordpress",
     description:
-      "eCommerce Website for Product/Service. A site that presents the company's products, infomation about the company and all the setup. ",
+      "eCommerce Website for Product/Service. A site that displays the company's products, SSL certificate, infomation about the company, top design models and more. ",
     image: "./macrameweb.png",
     link: "https://anndesign.club/",
   },
@@ -44,13 +44,15 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
+  "Java-Script",
   "React",
-  "Node",
+  "Node.js",
   "PHP",
   "CSS",
   "HTML",
   "C#",
   "Python",
   "SQL/NoSQL",
+  ".NET",
+  "Angular",
 ];
