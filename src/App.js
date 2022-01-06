@@ -8,6 +8,7 @@ import Footer from "./components/Footer";
 // import Testimonials from "./components/Testimonials";
 
 export default function App() {
+
   return (
     <main className="text-purple-darkest bg-purple-lightest body-font">
       <Navbar />
@@ -18,6 +19,8 @@ export default function App() {
       <Contact />
       <br/>
       <Footer />
+      
     </main>
+    
   );
 }

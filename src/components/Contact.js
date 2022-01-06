@@ -1,7 +1,10 @@
 
 import React from "react";
+import { useAlert } from 'react-alert'
+
 
 export default function Contact() {
+  const alert = useAlert()
   const [name, setName] = React.useState("");
   const [email, setEmail] = React.useState("");
   const [message, setMessage] = React.useState("");
@@ -13,14 +16,17 @@ export default function Contact() {
   }
 
   function handleSubmit(e) {
+    
     e.preventDefault();
+    e.target.reset();
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ "form-name": "test", name, email, message }),
     })
-      .then(() => alert("Message sent!"))
+      .then(() => alert.show(<div style={{ color: 'white' }}>Message Sent!</div>))
       .catch((error) => alert(error));
+      
   }
 
   return (
