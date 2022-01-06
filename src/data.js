@@ -18,7 +18,7 @@ export const projects = [
   },
   {
     title: "Forever Living",
-    subtitle: "Corporate website",
+    subtitle: "Made with PHP, HTML and CSS",
     description:
       "A site that presents the company's products, information about the company, links to social media, including a link to WhatsApp with an opening message and a contact form.",
     image: "./forever.png",
