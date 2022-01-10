@@ -1,13 +1,15 @@
 
-import React from "react";
+import React, { useState } from "react";
 import { useAlert } from 'react-alert'
 
+const isEmpty = value => value.trim() === '';
 
 export default function Contact() {
   const alert = useAlert()
   const [name, setName] = React.useState("");
   const [email, setEmail] = React.useState("");
   const [message, setMessage] = React.useState("");
+
 
   function encode(data) {
     return Object.keys(data)
@@ -18,6 +20,14 @@ export default function Contact() {
   function handleSubmit(e) {
     
     e.preventDefault();
+    //  //if(!isEmpty(name)){}
+    // const enteredEmailIsValid = !isEmpty(email);
+    // const enteredMessageIsValid = !isEmpty(message);
+    // //const formIsValid = enteredNameIsValid && enteredEmailIsValid && enteredMessageIsValid;
+    
+    // if (formIsValid){
+    //   return alert.show(<div style={{ color: 'white' }}>Message Sent!</div>);
+    // }
     e.target.reset();
     fetch("/", {
       method: "POST",
@@ -26,7 +36,7 @@ export default function Contact() {
     })
       .then(() => alert.show(<div style={{ color: 'white' }}>Message Sent!</div>))
       .catch((error) => alert(error));
-      
+   
   }
 
   return (
