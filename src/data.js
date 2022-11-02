@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "Corporate Website",
-    subtitle: "Created by Wordpress",
+    subtitle: "Created with Wordpress",
     description:
       "Corporate website for Global Glamping Solutions. Displays the company's products and services, SSL certificate, infomation about the company, top design models and more. ",
     image: "./ggs.png",
@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     title: "eCommerce Website",
-    subtitle: "Created by Wordpress",
+    subtitle: "Created with Wordpress",
     description:
       "eCommerce Website for Product/Service. A site that displays the company's products, SSL certificate, infomation about the company, top design models and more. ",
     image: "./macrameweb.png",
@@ -19,13 +19,13 @@ export const projects = [
     title: "Spot Your Recipes",
     subtitle: "Final Project from Bar Ilan University",
     description:
-      "Spot Your Recipes - discover the top recipes in Allrecipes.com, based on Collaborative Filtering Algorithm. Created by Python, Node, Vue and MongoDB",
+      "Spot Your Recipes - discover the top recipes in Allrecipes.com, based on Collaborative Filtering Algorithm. Created with Python, Node, Vue and MongoDB",
     image: "./syrr.png",
     link: "https://www.youtube.com/watch?v=NVEPbseelWM",
   },
   {
     title: "Forever Living",
-    subtitle: "Created by PHP, HTML and CSS",
+    subtitle: "Created with PHP, HTML and CSS",
     description:
       "A site that presents the company's products, information about the company, links to social media, including a link to WhatsApp with an opening message and a contact form.",
     image: "./forever.png",
@@ -62,16 +62,17 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "WordPress",
-  "Vue",
-  "Java-Script",
-  "React",
+  "Linux",
+  "Vue.js",
+  "React.js",
   "Node.js",
   "PHP",
+  "Java-Script",
+  "Python",
+  "WordPress",
   "CSS",
   "HTML",
   "C#",
-  "Python",
   "SQL/NoSQL",
   ".NET",
   "Angular",

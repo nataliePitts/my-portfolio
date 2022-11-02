@@ -5,28 +5,3 @@
   from = "/*"
   to = "/index.html"
   status = 200
-
-  [[redirects]]
-    from = "/home"
-    to = "/Home.js"
-  
-  [[redirects]]
-    from = "/posts"
-    to = "/Posts.js"
-   
-  [[redirects]]
-    from = "/about"
-    to = "/About.js"
-  
-  [[redirects]]
-    from = "/skills"
-    to = "/Skills.js"
-  
-  [[redirects]]
-    from = "/projects"
-    to = "/Projects.js"
-  
-  [[redirects]]
-    from = "/contact"
-    to = "/Contacts.js"
-  
