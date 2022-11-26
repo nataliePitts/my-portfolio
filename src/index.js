@@ -1,11 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-// import {Router, Route} from "react-router";
-// import {Home} from './components/Home';
-// import {Posts} from './components/Posts';
-// import {Root} from './components/Root';
-
-
 import './index.css';
 import App from './App';
 import { transitions, positions, Provider as AlertProvider, types } from 'react-alert'
@@ -31,16 +25,9 @@ const options = {
 ReactDOM.render(
   
   <React.StrictMode>
-      <AlertProvider template={AlertTemplate} {...options}>
+   <AlertProvider template={AlertTemplate} {...options}>
     <App />
   </AlertProvider>
-    {/* <Router>
-      <Route path={"/"} component={Root}>
-      <Route path={"/posts"} components={Posts}/>
-        <Route path={"/home"} components={Home}/>
-     </Route>
-     <Route path={"/home"} components={Home}/>
-    </Router> */}
   </React.StrictMode>,
   document.getElementById('root')
 );
