@@ -12,7 +12,7 @@ export default function Posts() {
             בלוג שכולו דיגיטל
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            בקרוב יפתח כאן אזור חדש באתר - בלוג שהולך לדבר על כל מה שחם בעולם הווב
+            בקרוב יפתח כאן אזור חדש באתר - בלוג דיגיטל שכולו ווב
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
