@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: "Corporate Website",
+    title: "Corporate website",
     subtitle: "Create with Wordpress",
     description:
       "Corporate website for Global Glamping Solutions. Displays the company's products and services, SSL certificate, infomation about the company, top design models and more. ",
@@ -17,7 +17,7 @@ export const projects = [
   },
   {
     title: "Spot Your Recipes",
-    subtitle: "Final Project from Bar Ilan University",
+    subtitle: "Final Project at Bar Ilan University",
     description:
       "Spot Your Recipes - discover the top recipes in Allrecipes.com, based on Collaborative Filtering Algorithm. Build with Python, Node, Vue and MongoDB",
     image: "./syrr.png",
