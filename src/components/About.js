@@ -6,14 +6,16 @@ export default function About() {
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-purple-darkest">
-          Website Design and Development 
+          Marketing and Website Development 
             <br className="hidden lg:inline-block" /> <br/> 
           </h1>
           <p className="mb-8 leading-relaxed">
-            A Digital Expert who loves to design and code incredibly simple things, creates marketing content and lives the digital world
+            A Digital Expert who loves to design and code incredibly simple things, <br/> creates marketing content and lives the digital world
             <br/>
             <br/>
-            B. A in Data Science and Internet Technology (Bar-Ilan University)
+           <b>- B. A in Data Science and Internet Technology (Bar-Ilan University)</b> 
+            <br/>
+            <b>- Data Engineer at Webhelp Israel</b>
           </p>
           <div className="flex justify-center">
             <a

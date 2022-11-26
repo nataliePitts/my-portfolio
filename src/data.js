@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "Corporate website",
-    subtitle: "Create with Wordpress",
+    subtitle: "Created with Wordpress",
     description:
       "Corporate website for Global Glamping Solutions. Displays the company's products and services, SSL certificate, infomation about the company, top design models and more. ",
     image: "./ggs.png",
@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     title: "eCommerce Website",
-    subtitle: "Create with Wordpress",
+    subtitle: "Created with Wordpress",
     description:
       "eCommerce Website for Product/Service. A site that displays the company's products, SSL certificate, infomation about the company, top design models and more. ",
     image: "./macrameweb.png",
@@ -25,7 +25,7 @@ export const projects = [
   },
   {
     title: "Forever Living",
-    subtitle: "Create with PHP, HTML and CSS",
+    subtitle: "Created with PHP, HTML and CSS",
     description:
       "A site that presents the company's products, information about the company, links to social media, including a link to WhatsApp with an opening message and a contact form.",
     image: "./forever.png",
@@ -53,6 +53,7 @@ export const testimonials = [
 export const skills = [
   "WordPress",
   "Vue",
+  "Linux",
   "Java-Script",
   "React",
   "Node.js",
