@@ -52,7 +52,7 @@ export const testimonials = [
 
 export const skills = [
   "WordPress",
-  "Vue",
+  "Vue.js",
   "Linux",
   "Java-Script",
   "React",

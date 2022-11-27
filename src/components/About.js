@@ -9,13 +9,9 @@ export default function About() {
           Marketing and Website Development 
             <br className="hidden lg:inline-block" /> <br/> 
           </h1>
+          <b>Data Engineer at Webhelp Israel</b>
           <p className="mb-8 leading-relaxed">
             A Digital Expert who loves to design and code incredibly simple things, <br/> creates marketing content and lives the digital world
-            <br/>
-            <br/>
-           <b>- B. A in Data Science and Internet Technology (Bar-Ilan University)</b> 
-            <br/>
-            <b>- Data Engineer at Webhelp Israel</b>
           </p>
           <div className="flex justify-center">
             <a
