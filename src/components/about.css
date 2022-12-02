@@ -1,6 +1,6 @@
 .about__container {
     display: grid;
-    grid-template-columns: 35% 50%;
+    grid-template-columns: 70% 50%;
     gap: 15%;
     place-items: center;
 }
@@ -20,6 +20,8 @@ place-items: center;
 }
 
 .about__me-image {
+    place-items: center;
+    width: 100%;
     border-radius: 2rem;
     overflow: hidden;
     transform: rotate(10deg);
