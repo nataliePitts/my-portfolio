@@ -1,4 +1,5 @@
 import React from "react";
+import CTA from './CTA'
 
 export default function About() {
   return (
@@ -14,7 +15,8 @@ export default function About() {
             A Digital Expert who loves to design and code incredibly simple things, <br/> creates marketing content and lives the digital world
           </p>
           <div className="flex justify-center">
-            <a
+           <CTA/>
+            {/* <a
               href="#contact"
               className="inline-flex text-purple-lightest bg-purple-darkest border-0 py-2 px-6 focus:outline-none hover:bg-purple-light rounded text-lg">
               Let's Connect
@@ -24,7 +26,7 @@ export default function About() {
               href="#projects"
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
               Projects
-            </a>
+            </a> */}
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
