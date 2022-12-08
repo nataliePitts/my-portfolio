@@ -71,7 +71,7 @@ export default function Contact() {
               </h2>
               <a className="text-purple-lightest leading-relaxed">
 
-                nataliepittss.gmail.com
+                nataliepittss@gmail.com
               </a>
               <h2 className="title-font font-semibold text-purple-light tracking-widest text-xs mt-4">
 
