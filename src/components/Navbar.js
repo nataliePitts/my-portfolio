@@ -35,7 +35,7 @@ export default function Navbar() {
                 <SocialIcon url="https://www.linkedin.com/in/natalie-pitts-a679271a0/" className="mr-4" target="_blank" fgColor="#fff" style={{ width: 35, height: 35}}/>
                 <SocialIcon url="https://github.com/nataliePitts" className="mr-4" target="_blank" fgColor="#fff" style={{ width: 35, height: 35}}/>
                 <SocialIcon url="https://www.facebook.com/chucha.pitts/" className="mr-4" target="_blank" fgColor="#fff" style={{ width: 35, height: 35}}/>
-                <SocialIcon url="https://www.instagram.com/nati.pitts/" className="mr-4" target="_blank" fgColor="#fff" style={{ width: 35, height: 35}}/>
+                <SocialIcon url="https://www.instagram.com/nati_pitts/" className="mr-4" target="_blank" fgColor="#fff" style={{ width: 35, height: 35}}/>
                 </div>
        
       </div>
