@@ -48,7 +48,16 @@ module.exports = {
           dark: '#4BAEA0',
           DEFAULT: '#CAF7E3',
           light: '#1DB9C3',
+        },
+        newwinter: {
+          darkest: '#7D5A50',
+          dark: '#B4846C',
+          DEFAULT: '#B7C4CF',
+          light: '#E5B299',
+          lightest: '#FCDEC0',
+
         }
+
     },
     extend: {},
   },

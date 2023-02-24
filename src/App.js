@@ -7,10 +7,11 @@ import Skills from "./components/Skills";
 import Footer from "./components/Footer";
 // import Testimonials from "./components/Testimonials";
 
+
 export default function App() {
 
   return (
-    <main className="text-purple-darkest bg-purple-lightest body-font">
+    <main className="text-newwinter-dark bg-newwinter-lightest body-font">
       <Navbar />
       <About />
       <Projects />

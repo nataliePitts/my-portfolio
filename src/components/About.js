@@ -3,21 +3,21 @@ import CTA from './CTA'
 
 export default function About() {
   return (
-    <section id="about">
+    <section id="about bg-newwinter-light">
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-          <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-purple-darkest">
+          <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-newwinter-darkest">
           Data Engineer 
-            <br className="hidden lg:inline-block" /> <br/> 
+            <br className="hidden lg:inline-block text-newwinter-dark" /> <br/> 
           </h1>
-          <b>Webhelp Israel</b>
-          <p className="mb-8 leading-relaxed">
+          <b className="text-newwinter-darkest">Webhelp Israel</b>
+          <p className="mb-8 leading-relaxed text-newwinter-dark">
            Data Science and Internet Technology Expert that enjoys creating and coding things from the scratch, 
           <br/> as well as bringing ideas to life in the digital world. 
           <br/>
           <br/> My ambition is to always think forward and to be inspired and motivated to study more. 
           <br/>A team player who understands that being creative, innovative, dynamic, and hardworking is the keys to future success.
-          </p>
+          </p> 
           <div className="flex justify-center">
            <CTA/>
         {/* <a    

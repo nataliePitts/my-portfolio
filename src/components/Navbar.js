@@ -6,24 +6,24 @@ import { SocialIcon } from "react-social-icons";
 export default function Navbar() {
   return (
     
-    <header className="bg-purple-light md:sticky top-0 z-10">
+    <header className="bg-newwinter-dark md:sticky top-0 z-10">
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-        <a className="title-font font-medium text-purple-darkest mb-4 md:mb-0">
+        <a className="title-font font-medium text-newwinter-lightest mb-4 md:mb-0">
           <a href="#about" className="ml-3 text-3xl">
             Natalie Pitts
           </a>
         </a>
         <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700	flex flex-wrap items-center text-base justify-center">
-          <a href="#about" className="mr-5 hover:text-purple-darkest">
+          <a href="#about" className="mr-5 text-newwinter-lightest hover:text-newwinter-light">
             About 
           </a>
-          <a href="#skills" className="mr-5 hover:text-purple-darkest">
+          <a href="#skills" className="mr-5 text-newwinter-lightest hover:text-newwinter-light">
             Skills 
           </a>
-          <a href="#projects" className="mr-5 hover:text-purple-darkest">
+          <a href="#projects" className="mr-5 text-newwinter-lightest hover:text-newwinter-light">
             Projects 
           </a>
-          <a href="#contact" className="text-pink-dark mr-5 hover:text-purple-darkest">
+          <a href="#contact" className="text-newwinter-lightest  mr-5 hover:text-newwinter-light">
           Say Hello 
           </a>
           

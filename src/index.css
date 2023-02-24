@@ -5,21 +5,21 @@
 .btn {
     width: max-content;
     display: inline-block;
-    color: #6C4AB6;
+    color: #7D5A50;
     padding: 0.75rem 1.2rem;
     border-radius: 0.4rem;
     cursor: pointer;
-    border: 1px soild #8D72E1;
+    border: 1px soild #7D5A50;
     /* transition: ; */
 }
 
 .btn:hover {
-    background: #a28ec3;
-    color: #FEFBF6;
+    background: #B4846C;
+    color: #FCDEC0;
     border-color: transparent;
 }
 
 .btn-primary {
-    background: #BEAEE2;
-    color: #FEFBF6;
+    background: #B4846C;
+    color: #FCDEC0;
 }
