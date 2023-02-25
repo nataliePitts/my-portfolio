@@ -11,7 +11,7 @@ import Footer from "./components/Footer";
 export default function App() {
 
   return (
-    <main className="text-newwinter-dark bg-newwinter-lightest body-font">
+    <main className="font-sans text-newwinter-dark bg-newwinter-lightest body-font">
       <Navbar />
       <About />
       <Projects />
