@@ -13,7 +13,7 @@ export const projects = [
     description:
       "eCommerce Website for Product/Service. A site that displays the company's products, SSL certificate, infomation about the company, top design models and more. ",
     image: "./macrameweb.png",
-    link: "https://anndesign.club/",
+    link: "https://nataliepitts.com/",
   },
   {
     title: "Spot Your Recipes",
