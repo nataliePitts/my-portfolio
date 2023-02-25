@@ -14,7 +14,8 @@ export default function About() {
           <b className="text-newwinter-darkest">Data Science and Internet Technology Expert </b>that enjoys creating and coding things from the scratch, 
           <br/> as well as bringing ideas to life in the digital world. 
           <br/>
-          <br/> My ambition is to always think forward and to be inspired and motivated to study more, 
+          <br/> My ambition is to always think forward and to be inspired and motivated to study more
+          <br/> 
           <br/> Being creative, innovative, dynamic, and hardworking are the keys to future success.
           </p> 
           <div className="flex justify-center">
