@@ -10,13 +10,12 @@ export default function About() {
           Data Engineer 
             <br className="hidden lg:inline-block text-newwinter-dark" /> <br/> 
           </h1>
-          <b className="text-newwinter-darkest">Webhelp Israel</b>
           <p className="mb-8 leading-relaxed text-newwinter-dark">
-           Data Science and Internet Technology Expert that enjoys creating and coding things from the scratch, 
+          <b className="text-newwinter-darkest">Data Science and Internet Technology Expert </b>that enjoys creating and coding things from the scratch, 
           <br/> as well as bringing ideas to life in the digital world. 
           <br/>
-          <br/> My ambition is to always think forward and to be inspired and motivated to study more. 
-          <br/>A team player who understands that being creative, innovative, dynamic, and hardworking is the keys to future success.
+          <br/> My ambition is to always think forward and to be inspired and motivated to study more, 
+          <br/> Being creative, innovative, dynamic, and hardworking are the keys to future success.
           </p> 
           <div className="flex justify-center">
            <CTA/>

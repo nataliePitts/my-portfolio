@@ -55,7 +55,9 @@ module.exports = {
           DEFAULT: '#B7C4CF',
           light: '#E5B299',
           lightest: '#FCDEC0',
-
+          lightblue: '#ECF9FF',
+          light1: '#CEAB93',
+          textlight: '#FFF5E4'
         }
 
     },
