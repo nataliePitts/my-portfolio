@@ -14,7 +14,7 @@ export default function About() {
           <p className="mb-8 leading-relaxed text-newwinter-dark">
           <br/>It's a pleasure to meet you.
           <br/>
-          <br/>My name is Natalie, and I'm a<b className="text-newwinter-darkest"> Data Science and Internet Technology Specialist </b> <br/>who enjoys creating and developing things from the scratch, as well as bringing ideas to life in the digital world using data, frontend development, and UX/UI design.
+          <br/>My name is Natalie, and I'm a<b className="text-newwinter-darkest"> Data Science and Internet Technology Specialist </b> <br/><br/> Who enjoys creating and developing things from the scratch, as well as bringing ideas to life in the digital world using data, frontend development, and UX/UI design.
           <br/>
           <br/>
           <p class="italic">"The only way to do great work is to love what you do."  <br/>- Steve Jobs </p>
