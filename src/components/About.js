@@ -17,7 +17,7 @@ export default function About() {
           <br/>My name is Natalie, and I'm a<b className="text-newwinter-darkest"> Data Science and Internet Technology Specialist </b> who enjoys creating and developing things from the scratch, as well as bringing ideas to life in the digital world using data, frontend development, and UX/UI design.
           <br/>
           <br/>
-          <p class="italic">"Life is what happens when you're busy making other plans." <br/>-John Lennon </p>
+          <p class="italic">"The only way to do great work is to love what you do."  <br/>- Steve Jobs </p>
           
           </p> 
           <div className="flex justify-center">
