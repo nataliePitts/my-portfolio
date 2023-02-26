@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Created with Wordpress",
     description:
       "Corporate website for Global Glamping Solutions. Displays the company's products and services, SSL certificate, infomation about the company, top design models and more. ",
-    image: "./ggs.png",
+    image: "./globalnew.png",
     link: "https://globalglampingsolutions.com/",
   },
   {

@@ -5,7 +5,9 @@ import { skills } from "../data";
 
 export default function Skills() {
   return (
-    <section id="skills" >
+    
+    <section id="skills"><br/> <br/><br/><br/><br/> 
+    <section>
       <div className="container px-5 py-10 mx-auto">
         <div className="text-center mb-20">
           <ChipIcon className="w-10 inline-block mb-4" />
@@ -29,6 +31,7 @@ export default function Skills() {
           ))}
         </div>
       </div>
+    </section>
     </section>
   );
 }
