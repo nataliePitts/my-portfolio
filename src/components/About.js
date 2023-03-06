@@ -14,11 +14,11 @@ export default function About() {
           <p className="mb-8 leading-relaxed text-newwinter-darkest">
           <br/>It's a pleasure to meet you.
           <br/><br/>
-          <b className="text-newwinter-darkest">Front End Developer </b> <br/><br/> Who enjoys creating and developing things from the scratch, as well as bringing ideas to life in the digital world using web development and UX/UI design.
+          <b className="text-newwinter-darkest">Front End Developer </b> <br/><br/> Who enjoys creating and developing things from scratch, as well as bringing ideas to life in the digital world using Web development and UI/UX design.
           <br/>
           <br/>
-          <p class="italic">"The only way to do great work is to love what you do."  <br/>- Steve Jobs </p>
-          
+          <p class="italic">“We’re here to put a dent in the universe. Otherwise why else even be here?”  <br/>- Steve Jobs </p>
+          <br/><p className="mb-8 leading-relaxed text-newwinter-darkest">One of Steve Jobs' most popular and inspirational quotes. Your goals, achievement and successes are never really about you. Your impact on the world is what matters.</p>
           </p> 
           <div className="flex justify-center">
            <CTA/>

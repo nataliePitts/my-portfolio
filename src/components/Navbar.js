@@ -26,6 +26,9 @@ export default function Navbar() {
           <a href="#contact" className="text-newwinter-lightest  mr-5 hover:text-newwinter-light">
           Say Hello 
           </a>
+          <a href="http://natipitts.com" className="text-newwinter-lightblue  mr-5 hover:text-newwinter-light">
+            BLOG
+          </a>
           
           {/* <a href="#testimonials" className="mr-5 hover:text-gray-400">
             Testimonials
