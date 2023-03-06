@@ -13,8 +13,8 @@ export default function App() {
   return (
     <main className="font-sans text-newwinter-dark bg-newwinter-lightest body-font">
       <Navbar />
-      <About id="about"/>
-      <Projects id="projects"/>
+      <About />
+      <Projects />
       <Skills />
       {/* <Testimonials /> */}
       <Contact />

@@ -16,6 +16,7 @@ export default function Projects() {
           Specializes in building dynamic websites, combining innovative design and marketing models from the digital world.
 
           </p>
+          
         </div>
         <div className="flex flex-wrap -m-4">
           {projects.map((project) => (

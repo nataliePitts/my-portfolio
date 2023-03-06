@@ -40,7 +40,7 @@ export default function Contact() {
   }
 
   return (
-    <section id="contact"><br/> <br/><br/> <br/> <br/> <br/>
+    <section id="contact"><br/> <br/><br/><br/><br/> 
     <section  className="relative">
       <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap bg-newwinter-lightest">
         <div className="lg:w-2/3 md:w-1/2 bg-newwinter-lightest rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
